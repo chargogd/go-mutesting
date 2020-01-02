@@ -1,4 +1,4 @@
-module github.com/zimmski/go-mutesting
+module github.com/chargogd/go-mutesting
 
 go 1.10
 
